@@ -1,6 +1,6 @@
 # TwitchBridge
 
-an IRC library that provides access to Twitch viewer information. Only reliable on channels with less than 500 viewers. Requires LunaLib.
+an IRC library that provides access to Twitch viewer information. Requires LunaLib. Only reliable on channels with less than 500 viewers due to how Twitch IRC works.
 
 Check LunaLib settings to change the channel name.
 
