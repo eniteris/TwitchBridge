@@ -15,7 +15,7 @@ As this tracks viewers based of the IRC, it can only count logged-in users in th
 
 and a demonstration mod
 
-## Chatter's Crew
+## Chatters' Crew
 
 where, when docking at a market, you gain or lose crew based off your change in Twitch viewership.
 
