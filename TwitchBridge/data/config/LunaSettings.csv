@@ -1,0 +1,4 @@
+fieldID,fieldName,fieldType,defaultValue,fieldDescription,tab
+twitchBridge_header,Twitch Connection,Header,,,,
+twitchBridge_channel,Channel Name,String,your_channel_name,The Twitch channel to connect to (lowercase no # prefix). Only reliable for channels <500 viewers,
+twitchBridge_blacklist,Bot Blacklist,String,"nightbot",Comma-separated list of usernames to exclude.,

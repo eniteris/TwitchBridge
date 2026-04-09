@@ -1,0 +1,13 @@
+{
+    "id": "twitchBridge",
+    "name": "Twitch IRC Bridge",
+    "author": "eniteris",
+    "version": "1.0",
+    "description": "Connects anonymously to a Twitch IRC channel and exposes viewer data to other mods.",
+    "gameVersion": "0.98a-RC8",
+    "jars": ["TwitchBridge.jar"],
+    "modPlugin": "data.scripts.twitch.TwitchBridgePlugin",
+	"dependencies": [
+		{ "id": "lunalib", "name": "LunaLib" }
+	]
+}

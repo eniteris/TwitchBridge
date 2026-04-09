@@ -1,0 +1,14 @@
+{
+    "id": "chattersCrew",
+    "name": "Chatter's Crew",
+    "author": "eniteris",
+    "version": "1.0",
+    "description": "Gain and lose crew depending on Twitch viewership.",
+    "gameVersion": "0.98a-RC8",
+    "jars": ["ChattersCrew.jar"],
+    "modPlugin": "data.scripts.ChattersCrewPlugin",
+	"dependencies": [
+		{ "id": "twitchBridge", "name": "Twitch IRC Bridge" },
+		{ "id": "lunalib", "name": "LunaLib" }
+	]
+}
